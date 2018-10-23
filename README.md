@@ -24,8 +24,8 @@ Seriously, I'm not sure if I can reveal their identity yet.
 ## Readings
 Material | Description | 'Lookupability'
 --- | --- | ---
-Bitcoin and Cryptocurrency Technologies, Narayan et al - 2016 | loosely used, with additional material | Yes, in AZW3 and EPUB formats
-<<CLASSIFIED>> | might also be used given who the lecturer is | Yes, via UNSW databases access
+Bitcoin and Cryptocurrency Technologies, Narayan et al - 2016 | loosely used, with additional material | Yes, use Google in AZW3 and EPUB formats
+CLASSIFIED | might also be there, given who the lecturer is | Yes, via UNSW databases access
 
 ## Useful links
 * [Handbook 2019](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/COMP6451)
@@ -36,14 +36,16 @@ Bitcoin and Cryptocurrency Technologies, Narayan et al - 2016 | loosely used, wi
 
 ## How to remember the course code?
 ![1](https://latex.codecogs.com/gif.latex?COMP%20%286%20-%204%29*%285%20*%201%29)
+
 **OR**
+
 ![2](https://latex.codecogs.com/gif.latex?COMPsqrt%2864%29&plus;sqrt%285%20-%201%29)
 
 ## Impression
 *Seems like this course is a spin-off of the American (U.S.) Princeton University's similar course*
 
 ## Can I contribute?
-Feel free to do so!
+Feel free to do so! But don't expect me to accept pull reqs given my workload
 
 ## I am the lecturer, and this repo gets me in trouble! Please remove *something*
 Please politely email me
