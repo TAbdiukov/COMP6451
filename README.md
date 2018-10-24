@@ -9,10 +9,12 @@ This is the *official unofficial* repo for this course @ UNSW
 ## Trivia
 This course is first planned to be run in the summer 2018-2019, right before the trimesters horror kicks in
 ![enrolment](https://raw.githubusercontent.com/TAbdiukov/COMP6451/master/misc/myUNSW.png)
+
 Considering 
-    * the number of places for this course,
-    * how new the course is, and
-    * how ~~little~~ practically no information is available for this course, 
+* the number of places for this course,
+* how new the course is, and
+* how ~~little~~ practically no information is available for this course, 
+
 I decided to summarise what to know before it starts. Normally all the info is available on the UNSW portal, however I guess because of the transition and redtape on their side not much is known
 
 ## Lecturer
@@ -37,9 +39,9 @@ CLASSIFIED | might also be there, given who the lecturer is | Yes, via UNSW data
 ## How to remember the course code?
 ![1](https://latex.codecogs.com/gif.latex?COMP%20%286%20-%204%29*%285%20*%201%29)
 
-**OR**
+**AND**
 
-![2](https://latex.codecogs.com/gif.latex?COMPsqrt%2864%29&plus;sqrt%285%20-%201%29)
+![2](https://latex.codecogs.com/gif.latex?COMP%5Csqrt%7B64%7D&plus;%5Csqrt%7B5-1%7D)
 
 ## Impression
 *Seems like this course is a spin-off of the American (U.S.) Princeton University's similar course*
@@ -48,4 +50,4 @@ CLASSIFIED | might also be there, given who the lecturer is | Yes, via UNSW data
 Feel free to do so! But don't expect me to accept pull reqs given my workload
 
 ## I am the lecturer, and this repo gets me in trouble! Please remove *something*
-Please politely email me
+Please politely email me :)
