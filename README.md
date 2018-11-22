@@ -17,24 +17,26 @@ Considering
 
 I decided to summarise what to know before it starts. Normally all the info is available on the UNSW portal, however I guess because of the transition and redtape on their side not much is known
 
+## Useful links
+* [Handbook 2019](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/COMP6451)
+* [CS6451 @ CSE](https://www.cse.unsw.edu.au/~cs6451/) | ([archive](https://web.archive.org/web/20181122183654/https://www.cse.unsw.edu.au/~cs6451/))
+* [COMP6451 textbooks according to the UNSW bookshop](https://www.bookshop.unsw.edu.au/subject.cgi?subject1=COMP6451&Submit=Submit+Query); as for ~~as for 24/10/2018 they got nothing~~ 23/11/2018, no readings
+
+* Also, there is something for "./usr/local/bin/6451" in the terminal. Not sure what it does
+
+## Syllabus
+See [CS6451 @ CSE](https://www.cse.unsw.edu.au/~cs6451/)
+
+
 ## Lecturer
 ~~~~
-<<CLASSIFIED>>
+Prof Ron van der Meyden 
 ~~~~~ 
-Seriously, I'm not sure if I can reveal their identity yet.
 
 ## Readings
 Material | Description | 'Lookupability'
 --- | --- | ---
-Bitcoin and Cryptocurrency Technologies, Narayan et al - 2016 | loosely used, with additional material | Yes, use Google in AZW3 and EPUB formats
-CLASSIFIED | might also be there, given who the lecturer is | Yes, via UNSW databases access
-
-## Useful links
-* [Handbook 2019](https://www.handbook.unsw.edu.au/undergraduate/courses/2019/COMP6451)
-* [CS6451 @ CSE](https://www.cse.unsw.edu.au/~cs6451/)
-* [COMP6451 textbooks according to the UNSW bookshop](https://www.bookshop.unsw.edu.au/subject.cgi?subject1=COMP6451&Submit=Submit+Query); as for 24/10/2018 they got nothing
-
-* Also, there is something for "./usr/local/bin/6451" in the terminal. Not sure what it does
+Bitcoin and Cryptocurrency Technologies, Narayan et al - 2016 | loosely used, with additional material | Yes, use Google, in AZW3 and EPUB formats
 
 ## How to remember the course code?
 ![1](https://latex.codecogs.com/gif.latex?COMP%20%286%20-%204%29*%285%20*%201%29)
@@ -50,4 +52,4 @@ CLASSIFIED | might also be there, given who the lecturer is | Yes, via UNSW data
 Feel free to do so! But don't expect me to accept pull reqs given my workload
 
 ## I am the lecturer, and this repo gets me in trouble! Please remove *something*
-Please politely email me :)
+Please politely email me 😊
